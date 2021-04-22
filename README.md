@@ -4,5 +4,5 @@ indigo
 blue
 green
 y
-o
+orange
 r
