@@ -1,5 +1,5 @@
 # rainbow
-v
-i
-b
-g
+violet
+indigo
+blue
+green
